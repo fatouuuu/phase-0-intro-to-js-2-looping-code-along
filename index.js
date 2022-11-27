@@ -14,6 +14,6 @@ const names=['Guadalupe','Ollie','Aki'];
 function countDown(){
     let posInt = 11; 
     while (posInt--){
-        console.log(posInt)
+        console.log (posInt)
     }
 }
